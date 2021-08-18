@@ -28,7 +28,7 @@ const styles = StyleSheet.create({
     shadowRadius:6,
     shadowOpacity:0.26,
     elevation:5,
-    borderRadius:'10px'
+    borderRadius:10
     },
     icon:{
         color:"rgb(147, 19, 75)"

@@ -11,8 +11,8 @@ import Navigation from './components/Navigation'
 export default function App() {
   return (
     <View>
-     {/*  <NavBar />
-      <View>
+      <NavBar />
+      {/* <View>
         <ImageSlider />
       </View>
       <View style={styles.containe}>
@@ -28,8 +28,8 @@ export default function App() {
         <View>
           <Footer />
         </View>
-      </View> */}
-      <Navigation/>
+      </View>  */}
+       <Navigation/> 
     </View>
   );
 }

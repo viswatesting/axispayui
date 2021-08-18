@@ -39,7 +39,7 @@ const styles = StyleSheet.create({
     container:{
         position:'relative',
         top:'100%',
-        fontSize:'10px',
+        fontSize:10,
        
     },
     

@@ -17,6 +17,6 @@ const styles = StyleSheet.create({
         padding:'5px',
         paddingLeft:'10px',
         paddingRight:'10px',
-        borderRadius:'50%'
+        borderRadius:50
     }
 })
